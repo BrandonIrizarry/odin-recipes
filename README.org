@@ -1,0 +1,11 @@
+* Recipe Project
+** Synopsis
+A basic recipe website.
+
+** Skills Demonstrated Upon Project Completion
+*** Thoughts Before the Project
++ Simple HTML ordered and unordered lists.
++ Using images in web pages.
++ Using links in web pages.
++ General textual elements (paragraph elements, ~strong~ and ~em~).
++ Simple typography (~&ldquot;~, ~&rsquot;~, etc.)
