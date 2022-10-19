@@ -7,5 +7,6 @@ A basic recipe website.
 + Simple HTML ordered and unordered lists.
 + Using images in web pages.
 + Using links in web pages.
-+ General textual elements (paragraph elements, ~strong~ and ~em~).
++ General textual elements (paragraph elements, ~strong~ and ~em~, and
+  others).
 + Simple typography (~&ldquot;~, ~&rsquot;~, etc.)
