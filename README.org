@@ -9,6 +9,7 @@ A basic recipe website.
 + Using links in web pages.
 + General textual elements (paragraph elements, +~strong~+ and ~em~, and
   others).
+<<<<<<< HEAD
 + +Simple typography (~&ldquot;~, ~&rsquot;~, etc.)+
 
 *** Thoughts After the Project
@@ -29,10 +30,7 @@ external links to the appropriate websites.
 I made sure to always use a target attribute of ~_blank~ for external
 links.
 
-I personally find it jarring when I'm forcefully navigated away from
-the page I'm currently reading. One thing I've come to appreciate
-about the Odin Project's various lesson pages is that they explicitly
-avoid this.
-
-
+One thing I've come to appreciate about the Odin Project's various
+lesson pages is their consistent use of the ~_blank~ attribute for
+external links.
 
