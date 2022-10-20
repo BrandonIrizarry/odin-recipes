@@ -7,6 +7,32 @@ A basic recipe website.
 + Simple HTML ordered and unordered lists.
 + Using images in web pages.
 + Using links in web pages.
-+ General textual elements (paragraph elements, ~strong~ and ~em~, and
++ General textual elements (paragraph elements, +~strong~+ and ~em~, and
   others).
-+ Simple typography (~&ldquot;~, ~&rsquot;~, etc.)
++ +Simple typography (~&ldquot;~, ~&rsquot;~, etc.)+
+
+*** Thoughts After the Project
+In this iteration of the project, I ended up not using neither
+~strong~, nor the fancy typeset-style quotation marks.
+
+One of my objectives for the project was ease of navigation. Each
+recipe page contains a link, found at the bottom of the page, that
+leads back to the main page (index.html).
+
+The consistency of formatting of each page made the (first stage of
+the) project relatively easy to complete.
+
+**** A Note on External Links
+I also made sure to include attributions where appropriate, using
+external links to the appropriate websites.
+
+I made sure to always use a target attribute of ~_blank~ for external
+links.
+
+I personally find it jarring when I'm forcefully navigated away from
+the page I'm currently reading. One thing I've come to appreciate
+about the Odin Project's various lesson pages is that they explicitly
+avoid this.
+
+
+
