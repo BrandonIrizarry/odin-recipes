@@ -1,0 +1,63 @@
+html {
+    box-sizing: border-box;
+    font-size: 100%;
+    font-family: "Times New Roman", serif;
+}
+
+*::before, *::after {
+    box-sizing: inherit;
+}
+
+body {
+    background-color: #aaa;
+}
+
+.eating-scene {
+    display: flex;
+}
+
+.title {
+    padding: 50px 50px 0 50px;
+    text-align: center;
+    font-variant: small-caps;
+}
+
+.meal-setup {
+    display: flex;
+    padding: 50px 0;
+}
+
+.odin-spoon::after {
+    content: "\1f944";
+    font-size: 100px;
+}
+
+.odin-meal::after {
+    content: "\1f372";
+    font-size: 100px;
+}
+
+.odin-bread::after {
+    content: "\1f956";
+    font-size: 100px;
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+}
+
+ul {
+    list-style-type: lower-roman;
+    line-height: 1.5em;
+    font-variant: small-caps;
+}
+
+ul a {
+    text-decoration: none;
+    color: black;
+}
+
+ul a:hover {
+    text-decoration: underline;
+}
